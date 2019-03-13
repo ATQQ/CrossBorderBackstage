@@ -7,51 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe64f6e3-336a-48a5-ad9e-196bc4b23b92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/config/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/bean/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/bean/UserExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/controller/userController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/UserMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/service/userService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sugar/test/userTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.apache.commons.logging-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections4-4.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-compress-1.17.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/fastjson-1.2.56.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-annotations-2.9.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-core-2.9.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jackson-databind-2.9.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mybatis-spring-1.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.46-bin.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/ojdbc7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aop-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-aspects-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-context-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-core-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-jdbc-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-tx-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-web-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/spring-webmvc-5.0.8.RELEASE.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/lib/standard.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CrossBorderBackstage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CrossBorderBackstage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sugar/controller/userController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/controller/userController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sugar/service/userService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/service/userService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,18 +20,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/config/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-              <folding>
-                <element signature="e#1011#1032#0" expanded="true" />
-                <element signature="e#1074#1091#0" expanded="true" />
-                <element signature="e#1130#1144#0" expanded="true" />
-                <element signature="e#1187#1205#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="875">
+              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -80,8 +33,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sugar/controller/userController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1350">
-              <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+            <state relative-caret-position="90">
+              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sugar/service/userService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sugar/service/userServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="895">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,14 +99,14 @@
       <list>
         <option value="$PROJECT_DIR$/src/config/db.properties" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/sugar/service/userService.java" />
-        <option value="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/sugar/test/userTest.java" />
         <option value="$PROJECT_DIR$/src/sugar/bean/User.java" />
         <option value="$PROJECT_DIR$/src/sugar/bean/UserExample.java" />
         <option value="$PROJECT_DIR$/src/sugar/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/sugar/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/src/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/sugar/service/userService.java" />
+        <option value="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/sugar/controller/userController.java" />
       </list>
     </option>
@@ -183,19 +157,6 @@
               <item name="CrossBorderBackstage" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CrossBorderBackstage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrossBorderBackstage" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CrossBorderBackstage" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CrossBorderBackstage" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -205,7 +166,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552330325480" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552331074196" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -327,8 +288,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Tomcat Server.Test" />
       <item itemvalue="JUnit.userTest.testJSON" />
+      <item itemvalue="Tomcat Server.Test" />
     </list>
     <recent_temporary>
       <list>
@@ -346,7 +307,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552316795582</updated>
-      <workItem from="1552316802144" duration="13223000" />
+      <workItem from="1552316802144" duration="13881000" />
+      <workItem from="1552365175467" duration="2264000" />
+      <workItem from="1552381848322" duration="2680000" />
+      <workItem from="1552401105164" duration="3583000" />
     </task>
     <task id="LOCAL-00001" summary="chore(*) Init Project Initial commit">
       <created>1552317205623</created>
@@ -355,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552317205623</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(login):finish login part">
+      <created>1552330536100</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552330536101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -364,44 +335,44 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13223000" />
+    <option name="totallyTimeSpent" value="22408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Application Servers" sideWeight="0.4904051" weight="0.3289183" />
-      <window_info anchor="bottom" id="Spring" sideWeight="0.49946696" weight="0.3289183" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50959486" side_tool="true" visible="true" weight="0.3289183" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4914712" weight="0.3289183" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" sideWeight="0.4989339" weight="0.3289183" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4904051" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48880598" weight="0.80463576" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.48880598" weight="0.3289183" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49946696" weight="0.3289183" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51119405" side_tool="true" weight="0.38300222" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914712" weight="0.3289183" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49733475" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,33 +403,31 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore(*) Init Project Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore(*) Init Project Initial commit" />
+    <MESSAGE value="feat(login):finish login part" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(login):finish login part" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/config/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="35">
           <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sugar/service/userService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sugar/service/userServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -509,21 +478,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/config/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="25" column="22" lean-forward="true" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="875">
+          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/service/userService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/service/userServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
-            <element signature="e#1011#1032#0" expanded="true" />
-            <element signature="e#1074#1091#0" expanded="true" />
-            <element signature="e#1130#1144#0" expanded="true" />
-            <element signature="e#1187#1205#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sugar/controller/userController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="55" column="41" lean-forward="true" selection-start-line="55" selection-start-column="41" selection-end-line="55" selection-end-column="41" />
+        <state relative-caret-position="90">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

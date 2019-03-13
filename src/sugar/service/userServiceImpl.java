@@ -31,4 +31,29 @@ public class userServiceImpl implements userService{
             return users.get(0);
         }
     }
+
+    @Override
+    public boolean regist(User user) {
+        if(isUserExist(user.getUsername())){
+            return false;
+        }else{
+            user.setStatus(1);
+            userMapper.insert(user);
+            return true;
+        }
+
+    }
+
+    @Override
+    public boolean isUserExist(String username) {
+        UserExample example=new UserExample();
+        UserExample.Criteria criteria = example.createCriteria();
+        criteria.andUsernameEqualTo(username);
+        List<User> users = userMapper.selectByExample(example);
+        if (users.isEmpty())
+        return false;
+        else {
+            return true;
+        }
+    }
 }

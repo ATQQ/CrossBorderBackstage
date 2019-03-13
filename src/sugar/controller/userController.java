@@ -27,7 +27,7 @@ public class userController {
 
     /**
      * 用户登录接口
-     * @return
+     * @return String
      */
     @RequestMapping(value = "login",method =RequestMethod.POST)
     @ResponseBody
@@ -57,4 +57,23 @@ public class userController {
             return jsonObject.toJSONString();
         }
     }
+
+    /**
+     * 用户注册接口
+     * @param user
+     * @return String
+     */
+    @RequestMapping(value = "user",method =RequestMethod.PUT)
+    @ResponseBody
+    public String regist(@RequestBody User user){
+        JSONObject jsonObject=new JSONObject();
+        if(userService.regist(user)){
+            jsonObject.put("state",SUCCESS);
+            return jsonObject.toJSONString();
+        }else{
+            jsonObject.put("state",fail);
+            return jsonObject.toJSONString();
+        }
+    }
+
 }
