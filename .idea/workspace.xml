@@ -7,10 +7,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe64f6e3-336a-48a5-ad9e-196bc4b23b92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Communicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/CommunicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/GoodsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/MessageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/OrderExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Reply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/ReplyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Settings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/SettingsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/bean/ShoppingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/CommunicateMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/CommunicateMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/GoodsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/GoodsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/MessageMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/MessageMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/OrderMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/ReplyMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/ReplyMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/SettingsMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/SettingsMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/ShoppingMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sugar/mapper/ShoppingMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sugar/bean/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/bean/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/sugar/controller/userController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/controller/userController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sugar/service/userService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/service/userService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,50 +49,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/config/applicationContext.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sugar/controller/userController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sugar/service/userService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sugar/service/userServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="895">
-              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -100,13 +86,15 @@
         <option value="$PROJECT_DIR$/src/config/db.properties" />
         <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/sugar/test/userTest.java" />
-        <option value="$PROJECT_DIR$/src/sugar/bean/User.java" />
         <option value="$PROJECT_DIR$/src/sugar/bean/UserExample.java" />
         <option value="$PROJECT_DIR$/src/sugar/mapper/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/sugar/mapper/UserMapper.xml" />
         <option value="$PROJECT_DIR$/src/config/applicationContext.xml" />
         <option value="$PROJECT_DIR$/src/sugar/service/userService.java" />
         <option value="$PROJECT_DIR$/src/sugar/service/userServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/sugar/bean/User.java" />
+        <option value="$PROJECT_DIR$/web/test/index.html" />
+        <option value="$PROJECT_DIR$/web/test/index.js" />
         <option value="$PROJECT_DIR$/src/sugar/controller/userController.java" />
       </list>
     </option>
@@ -157,6 +145,12 @@
               <item name="CrossBorderBackstage" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="CrossBorderBackstage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CrossBorderBackstage" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -166,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552331074196" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552566493350" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,11 +171,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\web" />
       <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\web\WEB-INF\lib" />
       <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\src\sugar\mapper" />
       <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\src\sugar\bean" />
       <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\src\sugar\tools" />
-      <recent name="D:\documents\study\IdeaProject\ideaProject\crossBorderstage\CrossBorderBackstage\src\sugar" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -310,7 +304,9 @@
       <workItem from="1552316802144" duration="13881000" />
       <workItem from="1552365175467" duration="2264000" />
       <workItem from="1552381848322" duration="2680000" />
-      <workItem from="1552401105164" duration="3583000" />
+      <workItem from="1552401105164" duration="3781000" />
+      <workItem from="1552489634909" duration="7271000" />
+      <workItem from="1552553873847" duration="2282000" />
     </task>
     <task id="LOCAL-00001" summary="chore(*) Init Project Initial commit">
       <created>1552317205623</created>
@@ -326,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1552330536101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(regist):finish regist API">
+      <created>1552435900071</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552435900071</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -335,12 +338,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22408000" />
+    <option name="totallyTimeSpent" value="32159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25692964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -350,20 +353,20 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48880598" weight="0.80463576" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64818764" weight="0.41942605" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.48880598" weight="0.3289183" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.48400852" weight="0.294702" />
       <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.49946696" weight="0.3289183" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.51119405" side_tool="true" weight="0.38300222" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914712" weight="0.3289183" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50319827" side_tool="true" visible="true" weight="0.3289183" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.48933902" weight="0.3289183" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
-      <window_info anchor="bottom" id="Version Control" order="15" sideWeight="0.49733475" weight="0.3289183" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="15" sideWeight="0.4968017" visible="true" weight="0.3289183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -421,7 +424,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore(*) Init Project Initial commit" />
     <MESSAGE value="feat(login):finish login part" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(login):finish login part" />
+    <MESSAGE value="feat(regist):finish regist API" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(regist):finish regist API" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/config/db.properties">
@@ -441,31 +445,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sugar/bean/UserExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="94" selection-start-line="94" selection-end-line="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sugar/bean/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-260">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -478,8 +461,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/config/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
+        <state relative-caret-position="-608">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/test/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1855">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+          <folding>
+            <element signature="n#!!block;n#Userlogin#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/test/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -492,7 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sugar/service/userServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="895">
+        <state relative-caret-position="700">
           <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -500,15 +500,96 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="74" column="18" selection-start-line="74" selection-start-column="18" selection-end-line="74" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/sugar/controller/userController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        <state relative-caret-position="146">
+          <caret line="85" column="46" lean-forward="true" selection-start-line="85" selection-start-column="46" selection-end-line="85" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/Goods.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/CommunicateExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/Settings.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/ReplyExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/MessageExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/SettingsExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/Reply.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/OrderExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/GoodsExample.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/bean/Communicate.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/CommunicateMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/ReplyMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/GoodsMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/ShoppingMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/SettingsMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/SettingsMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/ShoppingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/ReplyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sugar/mapper/MessageMapper.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
