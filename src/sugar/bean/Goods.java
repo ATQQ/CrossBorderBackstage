@@ -113,4 +113,21 @@ public class Goods {
     public void setStock(Integer stock) {
         this.stock = stock;
     }
+
+    @Override
+    public String toString() {
+        return "Goods{" +
+                "id=" + id +
+                ", username='" + username + '\'' +
+                ", name='" + name + '\'' +
+                ", type='" + type + '\'' +
+                ", price=" + price +
+                ", detail='" + detail + '\'' +
+                ", version='" + version + '\'' +
+                ", images='" + images + '\'' +
+                ", date=" + date +
+                ", sold=" + sold +
+                ", stock=" + stock +
+                '}';
+    }
 }
